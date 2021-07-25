@@ -13,8 +13,8 @@
 
 <p align="center">
   <em>
-    This is ME, Rajat Kaushik, a <b>pre-final year</b> undergraduate from <a href="https://www.niituniversity.in/"> <b>NIIT University, Neemrana</b>, Rajasthan</a>. <br>
-    A budding <b>Full-Stack Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cyber Security Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    This is ME, Rajat Kaushik, a <b>final year</b> undergraduate from <a href="https://www.niituniversity.in/"> <b>NIIT University, Neemrana</b>, Rajasthan</a>. <br>
+    A budding <b>Ethical Hacker</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, <b>Web Developer</b> and a <b>Cyber Security Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -23,8 +23,8 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 <p align="center">
-🔭 I’m currently working on Charity Website <br>
-🌱 I’m currently learning Angular<br>
+🔭 I’m currently working on Portfolio Website <br>
+🌱 I’m currently learning React<br>
 👯 I’m looking to collaborate on Web Projects<br>
 🤔 I’m looking for help with CyberSecurity Internships<br>
 💬 Ask me about Ethical Hacking<br>
